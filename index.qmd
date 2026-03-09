@@ -90,7 +90,7 @@ format:
 ![](images/AG_Tertiär.png)
 
 ::: {.links}
-[Kanton aargau Tertiär](https://www.ag.ch/de/themen/bildung-forschung/hochschulen)
+[Kanton Aargau Tertiär](https://www.ag.ch/de/themen/bildung-forschung/hochschulen)
 :::
 
 
@@ -548,8 +548,6 @@ Lent, R. W., & Brown, S. D. (2019). Social cognitive career theory at 25: Empiri
 
 # Career Construction Theory
 
-*(Savickas)*
-
 Laufbahnen werden aktiv konstruiert.
 
 **Wichtige Konzepte**
@@ -561,6 +559,11 @@ Laufbahnen werden aktiv konstruiert.
 **Leitfrage**
 
 Wie gestalten Menschen ihre Laufbahn in unsicheren Kontexten?
+
+:::{.source}
+Savickas, M. L., Nota, L., Rossier, J., Dauwalder, J.-P., Duarte, M. E., Guichard, J., Soresi, S., Van Esbroeck, R., & van Vianen, A. E. M. (2009). Life designing: A paradigm for career construction in the 21st century. Journal of Vocational Behavior, 75(3), 239–250. https://doi.org/10.1016/j.jvb.2009.04.004
+:::
+
 
 
 # CASS 1-12
