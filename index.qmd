@@ -640,7 +640,7 @@ Krumboltz, J. D. (2009). The happenstance learning theory. Journal of Career Ass
 
 # Berufswahlbereitschaft
 
-![](Bildungssystem_CH/images/Hirschi_Berufswahlbereitschaft.png)
+![](images/Hirschi_Berufswahlbereitschaft.png)
 
 :::{.source}
 Marciniak, J., Steiner, R., & Hirschi, A. (2019). Berufswahlbereitschaft bei Jugendlichen – Welche Faktoren sind für eine erfolgreiche Berufswahl wichtig. BWP, 1, 6–9.
