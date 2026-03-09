@@ -126,7 +126,7 @@ format:
 ![](images/Nägele_Höhere_Berufsbildung.png){width="462px"}
 
 :::{.source}
-Nägele, C., & Bierschenk, K. (2014). Höhere Berufsbildung im Bildungsraum Nordwestschweiz [Higher vocational education and training in the education area of Northwestern Switzerland]. Pädagogische Hochschule FHNW, Institut Forschung und Entwicklung, Zentrum Lernen und Sozialisation.
+Nägele, C., & Bierschenk, K. (2014). *Höhere Berufsbildung im Bildungsraum Nordwestschweiz* [Higher vocational education and training in the education area of Northwestern Switzerland]. Pädagogische Hochschule FHNW, Institut Forschung und Entwicklung, Zentrum Lernen und Sozialisation.
 :::
 
 ## Berufsbildung Schweiz {.section-slide}
@@ -213,7 +213,7 @@ Die **Organisationen der Arbeitswelt** gestalten die Berufsbildung strategisch, 
 Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI) ist das Kompetenzzentrum des Bundes für national und international ausgerichtete Fragen der Bildungs-, Forschungs- und Innovationspolitik.
 
 :::{.source}
-SBFI. (2023). Das SBFI auf einen Blick. SBFI Staatssekretariat für Bildung, Forschung und Innovation.
+SBFI. (2023). *Das SBFI auf einen Blick.* SBFI Staatssekretariat für Bildung, Forschung und Innovation.
 :::
 
 ::: {.links}
@@ -361,7 +361,7 @@ Wyss, A., Weich, M., & Nägele, C. (2025). Stimulating career planning reflectio
 ![](images/digibe_scenarios_reflection.jpeg)
 
 ::: {.source}
-Nägele, C., Stalder, B. E., & Wyss, A. (2025). Die Berufswahl ist kein linearer Prozess. Transfer. Berufsbildung in Forschung und Praxis, 10(13). https://transfer.vet/die-berufswahl-ist-kein-linearer-prozess/
+Nägele, C., Stalder, B. E., & Wyss, A. (2025). Die Berufswahl ist kein linearer Prozess. *Transfer. Berufsbildung in Forschung und Praxis, 10*(13). https://transfer.vet/die-berufswahl-ist-kein-linearer-prozess/
 :::
 
 # Informationssetting – Reflexion: Lernen
@@ -431,7 +431,7 @@ Menschen wählen Berufe, die zu ihren Fähigkeiten und Interessen passen.
 
 ::: {.source}
 Parsons, F. (1909). Choosing a vocation. Houghton Mifflin Company.
-Tarnai, C., & Hartmann, F. G. (2015). Berufliche Interessen. Beiträge zur Theorie von J. L. Holland. Waxmann.
+Tarnai, C., & Hartmann, F. G. (2015). *Berufliche Interessen. Beiträge zur Theorie von J. L. Holland.* Waxmann.
 :::
 
 # Parsons 
@@ -477,7 +477,7 @@ Holland, J. L. (1959). A theory of vocational choice. *Journal of Counseling Psy
 [Checks und Anforderungsprofile](https://support.ibe-edu.ch/check-ergebnisse-und-anforderungsprofile-fuer-schuelerinnen-und-schueler)
 
 :::{.source}
-Eine Einordnung: Rüfenacht, K. (2020). Anforderungsprofile.ch: Schulische Instrumente für die Berufswahl und -vorbereitung (p. 27) [Anforderungs-profile.ch: School tools for career choice and preparation]. Generalsekretariat EDK, Koordinationsbereich II «Berufsbildung und Sekundarstufe II / Allgemeinbildung».
+Eine Einordnung: Rüfenacht, K. (2020). *Anforderungsprofile.ch: Schulische Instrumente für die Berufswahl und -vorbereitung* [Anforderungs-profile.ch: School tools for career choice and preparation]. Generalsekretariat EDK, Koordinationsbereich II «Berufsbildung und Sekundarstufe II / Allgemeinbildung».
 :::
 
 # Kritik an klassischen Modellen
@@ -506,7 +506,7 @@ Berufswahl ist ein lebenslanger Entwicklungsprozess.
 Das berufliche Selbstkonzept entwickelt sich über die Zeit.
 
 :::{.source}
-Super, D. E. (1994). Der Lebenszeit-, Lebensraumansatz der Laufbahnentwicklung. In D. Brown & L. Brooks (Eds.), Karriere Entwicklung (pp. 211–280). J.G. Cotta’sche Buchhandlung Nachfolger GmbH.
+Super, D. E. (1994). Der Lebenszeit-, Lebensraumansatz der Laufbahnentwicklung. In D. Brown & L. Brooks (Eds.), *Karriere Entwicklung* (pp. 211–280). J.G. Cotta’sche Buchhandlung Nachfolger GmbH.
 :::
 
 # Regenbogen der Lebenslaufbahn
@@ -534,7 +534,7 @@ Super, D. E. (1994). Der Lebenszeit-, Lebensraumansatz der Laufbahnentwicklung. 
 → Berufliche Entscheidungen entstehen im Zusammenspiel von Person und Kontext.
 
 :::{.source}
-Lent, R. W., & Brown, S. D. (2019). Social cognitive career theory at 25: Empirical status of the interest, choice, and performance models. Journal of Vocational Behavior, 115(4), 103316. https://doi.org/10.1177/1069072719852736
+Lent, R. W., & Brown, S. D. (2019). Social cognitive career theory at 25: Empirical status of the interest, choice, and performance models. *Journal of Vocational Behavior, 115*(4), 103316. https://doi.org/10.1177/1069072719852736
 :::
 
 # Social Cognitive Career Theory
@@ -542,7 +542,7 @@ Lent, R. W., & Brown, S. D. (2019). Social cognitive career theory at 25: Empiri
 ![](images/Lent_Brown_Social_Cognitive_Model.png)
 
 :::{.source}
-Lent, R. W., & Brown, S. D. (2019). Social cognitive career theory at 25: Empirical status of the interest, choice, and performance models. Journal of Vocational Behavior, 115(4), 103316. https://doi.org/10.1177/1069072719852736
+Lent, R. W., & Brown, S. D. (2019). Social cognitive career theory at 25: Empirical status of the interest, choice, and performance models. *Journal of Vocational Behavior, 115*(4), 103316. https://doi.org/10.1177/1069072719852736
 :::
 
 
@@ -561,7 +561,7 @@ Laufbahnen werden aktiv konstruiert.
 Wie gestalten Menschen ihre Laufbahn in unsicheren Kontexten?
 
 :::{.source}
-Savickas, M. L., Nota, L., Rossier, J., Dauwalder, J.-P., Duarte, M. E., Guichard, J., Soresi, S., Van Esbroeck, R., & van Vianen, A. E. M. (2009). Life designing: A paradigm for career construction in the 21st century. Journal of Vocational Behavior, 75(3), 239–250. https://doi.org/10.1016/j.jvb.2009.04.004
+Savickas, M. L., Nota, L., Rossier, J., Dauwalder, J.-P., Duarte, M. E., Guichard, J., Soresi, S., Van Esbroeck, R., & van Vianen, A. E. M. (2009). Life designing: A paradigm for career construction in the 21st century. *Journal of Vocational Behavior, 75*(3), 239–250. https://doi.org/10.1016/j.jvb.2009.04.004
 :::
 
 
@@ -589,7 +589,7 @@ Savickas, M. L., Nota, L., Rossier, J., Dauwalder, J.-P., Duarte, M. E., Guichar
 
 
 :::{.source}
-Savickas, M. L., Nota, L., Rossier, J., Dauwalder, J.-P., Duarte, M. E., Guichard, J., Soresi, S., Van Esbroeck, R., & van Vianen, A. E. M. (2009). Life designing: A paradigm for career construction in the 21st century. Journal of Vocational Behavior, 75(3), 239–250. https://doi.org/10.1016/j.jvb.2009.04.004
+Savickas, M. L., Nota, L., Rossier, J., Dauwalder, J.-P., Duarte, M. E., Guichard, J., Soresi, S., Van Esbroeck, R., & van Vianen, A. E. M. (2009). Life designing: A paradigm for career construction in the 21st century. *Journal of Vocational Behavior, 75*(3), 239–250. https://doi.org/10.1016/j.jvb.2009.04.004
 :::
 
 # Berufsorientierung als Lernprozess
@@ -605,7 +605,7 @@ Savickas, M. L., Nota, L., Rossier, J., Dauwalder, J.-P., Duarte, M. E., Guichar
 - Gespräche mit Fachpersonen
 
 :::{.source}
-Krumboltz, J. D. (2009). The happenstance learning theory. Journal of Career Assessment, 17(2), 135–154. https://doi.org/10.1177/1069072708328861
+Krumboltz, J. D. (2009). The happenstance learning theory. *Journal of Career Assessment, 17*(2), 135–154. https://doi.org/10.1177/1069072708328861
 :::
 
 # Career Management Skills
@@ -635,7 +635,7 @@ Berufsorientierung als Teil von Bildung
 
 
 :::{.source}
-Krumboltz, J. D. (2009). The happenstance learning theory. Journal of Career Assessment, 17(2), 135–154. https://doi.org/10.1177/1069072708328861
+Krumboltz, J. D. (2009). The happenstance learning theory. *Journal of Career Assessment, 17*(2), 135–154. https://doi.org/10.1177/1069072708328861
 :::
 
 # Berufswahlbereitschaft
@@ -643,7 +643,7 @@ Krumboltz, J. D. (2009). The happenstance learning theory. Journal of Career Ass
 ![](images/Hirschi_Berufswahlbereitschaft.png)
 
 :::{.source}
-Marciniak, J., Steiner, R., & Hirschi, A. (2019). Berufswahlbereitschaft bei Jugendlichen – Welche Faktoren sind für eine erfolgreiche Berufswahl wichtig. BWP, 1, 6–9.
+Marciniak, J., Steiner, R., & Hirschi, A. (2019). Berufswahlbereitschaft bei Jugendlichen – Welche Faktoren sind für eine erfolgreiche Berufswahl wichtig. *BWP, 1*, 6–9.
 :::
 
 
@@ -663,6 +663,6 @@ Marciniak, J., Steiner, R., & Hirschi, A. (2019). Berufswahlbereitschaft bei Jug
 
 
 :::{.source}
-Wyss, A., Weich, M., & Nägele, C. (2025). Stimulating career planning reflection in students’ works through an online intervention. In C. Nägele, B. E. Stalder, F. Kaiser, M. Malloch, & N. Kersh (Eds.), Trends in vocational education and training research (Vol. 8, pp. 308–314). OAPublishing/VETNET. https://doi.org/10.21240/vetcon/2025/ecer/49
+Wyss, A., Weich, M., & Nägele, C. (2025). Stimulating career planning reflection in students’ works through an online intervention. In C. Nägele, B. E. Stalder, F. Kaiser, M. Malloch, & N. Kersh (Eds.), *Trends in vocational education and training research* (Vol. 8, pp. 308–314). OAPublishing/VETNET. https://doi.org/10.21240/vetcon/2025/ecer/49
 :::
 
