@@ -460,8 +460,6 @@ Parsons, F. (1909). Choosing a vocation. Houghton Mifflin Company.
 
 Menschen suchen Arbeitsumwelten, die ihren Interessen entsprechen.
 
-
-
 ::: {.source}
 Eder, F. T., & Bergmann, C. (2015). Das Person-Umwelt-Modell von J. L. Holland: Grundlagen—Konzepte—Anwendungen. In C. Tarnai & F. G. Hartmann (Eds), *Berufliche Interessen. Beiträge zur Theorie von J. L. Holland* (pp. 11–43). Waxmann.
 Holland, J. L. (1959). A theory of vocational choice. *Journal of Counseling Psychology, 6*(1), 35–45.
@@ -646,8 +644,7 @@ Krumboltz, J. D. (2009). The happenstance learning theory. *Journal of Career As
 Marciniak, J., Steiner, R., & Hirschi, A. (2019). Berufswahlbereitschaft bei Jugendlichen – Welche Faktoren sind für eine erfolgreiche Berufswahl wichtig. *BWP, 1*, 6–9.
 :::
 
-
-# Berufsorientierung umfasst:
+# Berufsorientierung umfasst
 
 - Interessenentwicklung
 - Exploration
@@ -662,7 +659,134 @@ Marciniak, J., Steiner, R., & Hirschi, A. (2019). Berufswahlbereitschaft bei Jug
 - Bedeutung von Kontext, Lernen und Reflexion
 
 
-:::{.source}
+::: {.source}
 Wyss, A., Weich, M., & Nägele, C. (2025). Stimulating career planning reflection in students’ works through an online intervention. In C. Nägele, B. E. Stalder, F. Kaiser, M. Malloch, & N. Kersh (Eds.), *Trends in vocational education and training research* (Vol. 8, pp. 308–314). OAPublishing/VETNET. https://doi.org/10.21240/vetcon/2025/ecer/49
 :::
+
+# Termin 3: Tools {.section-slide}
+
+# Typische Struktur Berufsorientierung Schweiz
+
+1.	Selbsterkundung (Interessen, Fähigkeiten)
+2.	Information über Berufe
+3.	Praxis-Erfahrung (Schnuppern)
+4.	Bewerbung und Lehrstellensuche
+
+::: {.source}
+Jungo, D., & Egloff, E. (2025). *Berufswahltagebuch*. Schulverlag Plus.<br>
+Schmid, R., & Schmid, S. (2021). *Berufswahl-Portfolio* [Career choice portfolio]. S&B Institut f. Berufs- u. Lebensgestaltung.
+:::
+
+# Moderne Konzeptionen beruflicher Orientierung BSLB
+
+# Weshalb die Suche nach Passung zu kurz greift
+
+Die moderne Arbeitswelt ist durch eine stetige Dynamik und wachsende Unvorhersehbarkeit geprägt, die von technologischen Innovationen, Globalisierung und gesellschaftlichen Veränderungen vorangetrieben wird (Marcus et al., 2024; Tschang & Mezquita, 2020).<br> 
+Lebenslange Beschäftigungsverhältnisse sind zunehmend die Ausnahme, und flexible, häufig wechselnde berufliche Kontexte werden zur neuen Realität (Lent, 2018).<br> 
+In diesem Umfeld wird die Verantwortung für die Gestaltung der eigenen Laufbahn immer stärker auf die Einzelnen übertragen (Hall et al., 2018).<br> 
+Diese Eigenverantwortung erstreckt sich über die gesamte Lebensspanne hinweg und erfordert eine aktive und kontinuierliche Auseinandersetzung mit der beruflichen Entwicklung – von der frühen Bildung bis ins hohe Erwerbsalter (Hirschi, 2025, S. 10).
+
+:::{.source}
+Hirschi, A., & Massoudi, K. (2025). *Nationales Dachberatungskonzept für die kantonalen Berufs-, Studien- und Laufbahnberatungen*. Schweizerischen Konferenz für Berufs-, Studien- und Laufbahnberatung.
+:::
+
+# Systematische Förderung von Laufbahngestaltungskompetenzen (LGK)
+
+1. *Entwickeln von Laufbahnzielen*: Persönliche Zielklärung basierend auf Werten, Interessen und beruflichen Möglichkeiten.  
+2. *Erkundung von Ressourcen und Hindernissen*: Identifikation und Bewertung unterstützender und hinderlicher Faktoren. 
+3. *Umsetzung von Handlungsplänen*: Entwicklung xund Verwirklichung konkreter Strategien zur Zielerreichung. 
+4. *Überprüfung und Anpassung*: Reflexion von Fortschritten und Anpassung von Zielen und Strategien.
+
+:::{.source}
+Hirschi, A., & Massoudi, K. (2025). *Nationales Dachberatungskonzept für die kantonalen Berufs-, Studien- und Laufbahnberatungen*. Schweizerischen Konferenz für Berufs-, Studien- und Laufbahnberatung.
+:::
+
+# Was wir in der Schweiz finden
+
+Informations- und Matching-Portale
+
+- [Anforderungsprofile.ch](https://www.anforderungsprofile.ch/)<br>
+- [Berufsberatung.ch](https://www.berufsberatung.ch/) <br>
+    -> Ich bin [in der obligatorischen Schule](https://www.berufsberatung.ch/dyn/show/13772?id=1)
+- [Lehrberufe Live!](https://www.lehrberufe-live.ch/)
+- [Lehrstellennetz](https://lehrstellennetz.ch/)
+- [schnuppy.ch](https://www.schnuppy.ch/)
+- [SRF](https://www.srf.ch/sendungen/school/berufswelt) Die neuen Berufsbilder
+- [Was soll ich studieren?](https://was-studiere-ich.ch/wsi_was-studiere-ich/)
+- [Yousty](https://www.yousty.ch/de-CH)
+- ...
+
+# [Berufsberatung.ch](https://www.berufsberatung.ch/)
+
+[Erste Berufswahl](https://www.berufsberatung.ch/dyn/show/61007)
+
+- [Interessen und Stärken](https://www.berufsberatung.ch/dyn/show/197950)<br>
+- [Berufe und Ausbildungen](https://www.berufsberatung.ch/dyn/show/198403)<br>
+- [Stärken und Anforderungen](https://www.berufsberatung.ch/dyn/show/199161)<br>
+- [Schnuppern](https://www.berufsberatung.ch/dyn/show/200276)<br>
+- [Überprüfen und entscheiden](https://www.berufsberatung.ch/dyn/show/200885)<br>
+- [Lehrstelle finden – Schule anmelden](https://www.berufsberatung.ch/dyn/show/201837)<br>
+- [Vorbereiten auf die Zukunft](https://www.berufsberatung.ch/dyn/show/202839)
+
+
+# Tools
+
+- [Mission ICH](https://www.mission-ich.uni-rostock.de/) (Pilz et al., 2023)<br>
+- Identitätskarte (Schreiber, 2023)<br>
+- Life designing (Mocigemba & Fattohi, 2023)<br>
+- Portfolio-Arbeit in der Beruflichen Orientierung (Löwenstrom et al., 2023)<br>
+- YouTube (Kirchner, 2023)
+
+- Mit den richtigen Fragen den passenden Berufsweg finden (Grüneberg, 2023a, 2023b)<br>
+- Kontinuität (Labs, 2023)
+
+
+# Quellen
+::: {.source}
+Pilz, L.-M., Prill, T., & Kalisch, C. (2023). Berufliche Orientierung mit „Mission ICH“ an Schulen in Mecklenburg-Vorpommern. In B. Knickrehm, T. Fletemeyer, & B.-J. Ertelt (Eds), Berufliche Orientierung und Beratung: Aktuelle Herausforderungen und digitale Unterstützungsmöglichkeiten (pp. 85–103). Springer. https://doi.org/10.1007/978-3-658-40601-1_6
+
+Schreiber, M. (2023). Modell der Persönlichkeits- und Identitätskonstruktion (MPI) - „Identitätskarte“. In B. Knickrehm, T. Fletemeyer, & B.-J. Ertelt (Eds), Berufliche Orientierung und Beratung: Aktuelle Herausforderungen und digitale Unterstützungsmöglichkeiten (pp. 125–143). Springer. https://doi.org/10.1007/978-3-658-40601-1_8
+
+Mocigemba, D., & Fattohi, R. (2023). Life Designing in der beruflichen Beratung. In B. Knickrehm, T. Fletemeyer, & B.-J. Ertelt (Eds), Berufliche Orientierung und Beratung: Aktuelle Herausforderungen und digitale Unterstützungsmöglichkeiten (pp. 145–158). Springer. https://doi.org/10.1007/978-3-658-40601-1_9
+
+Löwenstrom, B., Ellerbeck, S., & Staden, C. (2023). Vom Berufswahlpass zur berufswahlapp – Ein Klassiker der Portfolio-Arbeit in der Beruflichen Orientierung wird digital. In B. Knickrehm, T. Fletemeyer, & B.-J. Ertelt (Eds), Berufliche Orientierung und Beratung: Aktuelle Herausforderungen und digitale Unterstützungsmöglichkeiten (pp. 237–253). Springer. https://doi.org/10.1007/978-3-658-40601-1_14 
+
+Kirchner, V. (2023). Digitale Reflexionsanlässe: Lassen sich YouTube-Formate zur Beruflichen Orientierung nutzen? In B. Knickrehm, T. Fletemeyer, & B.-J. Ertelt (Eds), Berufliche Orientierung und Beratung: Aktuelle Herausforderungen und digitale Unterstützungsmöglichkeiten (pp. 297–304). Springer. https://doi.org/10.1007/978-3-658-40601-1_17
+
+Grüneberg, T. (2023a). Selbstcoaching-App zur Berufs- und Studienwahl für SchülerInnen der Sekundarstufe II – Einordnung und Anwendung. In B. Knickrehm, T. Fletemeyer, & B.-J. Ertelt (Eds), Berufliche Orientierung und Beratung: Aktuelle Herausforderungen und digitale Unterstützungsmöglichkeiten (pp. 255–269). Fachmedien. https://doi.org/10.1007/978-3-658-40601-1_15
+
+Grüneberg, T. (2023b). Mit den richtigen Fragen den passenden Berufsweg finden: Selbsteinschätzung rund um die Ausbildungs- und Studienwahl. Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-662-66362-2
+
+Labs, M. (2023). »Kontinuität im Prozess ist der Schlüssel für eine erfolgreiche Berufliche Orientierung«. BWP, 2, 28–31.
+:::
+
+# Aktuelle Tools 
+
+- [Profolio - Berufswahl einfach digital](https://www.profolio.ch/)<br><br>
+
+Forschungsprojekte<br>
+- [digibe](https://digibe.ch/)<br>
+- [Infromationssetting BL](https://www.infosetting-bl.ch/infosetting_bl/)<br>
+- [https://like2be.ch/](https://like2be.ch/)
+
+# Übung
+
+Vier Gruppen, vier Tools: 
+
+- [digibe](https://digibe.ch/)<br>
+- [https://like2be.ch/](https://like2be.ch/)
+- [Anforderungsprofile.ch](https://www.anforderungsprofile.ch/),<br>Profile und Beschreibung der beruflichen Grundbildung<br>
+- [Berufsberatung.ch](https://www.berufsberatung.ch/) <br>
+
+Ansehen, druchcklicken, ...<br>
+=> Wie kann das Tool in den Unterricht integriert werden? <br>
+  - Instruktion / Einführung
+  - Arbeit mit dem Tool 
+  - Ergebnisse aufnehmen und verarbeiten
+
+
+
+
+
+
 
