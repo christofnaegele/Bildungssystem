@@ -14,8 +14,9 @@ format:
 [Programm](https://drive.switch.ch/index.php/s/MO8exIExb8XqPY8)
 :::
 
-# Bildungssystem Schweiz {.section-slide}
-*Volksschule · Sek II · Tertiär*
+# Termin 1 <br>
+Bildungssystem Schweiz<br>
+*Volksschule · Sek II · Tertiär* 
 
 # EDK
 
@@ -402,7 +403,8 @@ Die Berufs-, Studien- und Laufbahnberatung (BSLB) ist heute ein Service Public f
 :::
 
 
-# Termin 2 {.section-slide}
+# Termin 2 <br>
+Herausforderungen
 
 # Herausforderungen Berufsorientierung
 
@@ -562,8 +564,6 @@ Wie gestalten Menschen ihre Laufbahn in unsicheren Kontexten?
 Savickas, M. L., Nota, L., Rossier, J., Dauwalder, J.-P., Duarte, M. E., Guichard, J., Soresi, S., Van Esbroeck, R., & van Vianen, A. E. M. (2009). Life designing: A paradigm for career construction in the 21st century. *Journal of Vocational Behavior, 75*(3), 239–250. https://doi.org/10.1016/j.jvb.2009.04.004
 :::
 
-
-
 # CASS 1-12
 
 ![](images/CAAS01.png)
@@ -663,7 +663,8 @@ Marciniak, J., Steiner, R., & Hirschi, A. (2019). Berufswahlbereitschaft bei Jug
 Wyss, A., Weich, M., & Nägele, C. (2025). Stimulating career planning reflection in students’ works through an online intervention. In C. Nägele, B. E. Stalder, F. Kaiser, M. Malloch, & N. Kersh (Eds.), *Trends in vocational education and training research* (Vol. 8, pp. 308–314). OAPublishing/VETNET. https://doi.org/10.21240/vetcon/2025/ecer/49
 :::
 
-# Termin 3: Tools und Techniken {.section-slide}
+# Termin 3 <br>
+Tools und Techniken
 
 # Typische Struktur Berufsorientierung Schweiz
 
