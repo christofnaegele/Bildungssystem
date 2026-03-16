@@ -715,7 +715,7 @@ Schreiber, M. (2023). Modell der Persönlichkeits- und Identitätskonstruktion (
 Informations- und Matching-Portale
 
 - [Anforderungsprofile.ch](https://www.anforderungsprofile.ch/)<br>
-- [Kt. Bern, kompetenzraster](https://www.bkd-kompetenzraster-ktbern.ch/#/about)
+- [Kt. Bern, Kompetenzraster](https://www.bkd-kompetenzraster-ktbern.ch/#/about)
 - [Berufsberatung.ch](https://www.berufsberatung.ch/) <br>
     -> Ich bin [in der obligatorischen Schule](https://www.berufsberatung.ch/dyn/show/13772?id=1)
 - [Lehrberufe Live!](https://www.lehrberufe-live.ch/)
