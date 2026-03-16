@@ -663,7 +663,7 @@ Marciniak, J., Steiner, R., & Hirschi, A. (2019). Berufswahlbereitschaft bei Jug
 Wyss, A., Weich, M., & Nägele, C. (2025). Stimulating career planning reflection in students’ works through an online intervention. In C. Nägele, B. E. Stalder, F. Kaiser, M. Malloch, & N. Kersh (Eds.), *Trends in vocational education and training research* (Vol. 8, pp. 308–314). OAPublishing/VETNET. https://doi.org/10.21240/vetcon/2025/ecer/49
 :::
 
-# Termin 3: Tools {.section-slide}
+# Termin 3: Tools und Techniken {.section-slide}
 
 # Typische Struktur Berufsorientierung Schweiz
 
@@ -701,6 +701,14 @@ Hirschi, A., & Massoudi, K. (2025). *Nationales Dachberatungskonzept für die ka
 Hirschi, A., & Massoudi, K. (2025). *Nationales Dachberatungskonzept für die kantonalen Berufs-, Studien- und Laufbahnberatungen*. Schweizerischen Konferenz für Berufs-, Studien- und Laufbahnberatung.
 :::
 
+# Paradigmen der Beratung 
+
+![](images/Paradigmen der Beratung.png)
+
+:::{.source}
+Schreiber, M. (2023). Modell der Persönlichkeits- und Identitätskonstruktion (MPI) - „Identitätskarte“. In B. Knickrehm, T. Fletemeyer, & B.-J. Ertelt (Eds), Berufliche Orientierung und Beratung: Aktuelle Herausforderungen und digitale Unterstützungsmöglichkeiten (pp. 125–143). Springer. https://doi.org/10.1007/978-3-658-40601-1_8
+:::
+
 # Was wir in der Schweiz finden
 
 Informations- und Matching-Portale
@@ -729,7 +737,7 @@ Informations- und Matching-Portale
 - [Vorbereiten auf die Zukunft](https://www.berufsberatung.ch/dyn/show/202839)
 
 
-# Tools
+# Tools und Techniken
 
 - [Mission ICH](https://www.mission-ich.uni-rostock.de/) (Pilz et al., 2023)<br>
 - Identitätskarte (Schreiber, 2023)<br>
@@ -739,7 +747,6 @@ Informations- und Matching-Portale
 
 - Mit den richtigen Fragen den passenden Berufsweg finden (Grüneberg, 2023a, 2023b)<br>
 - Kontinuität (Labs, 2023)
-
 
 # Quellen
 ::: {.source}
@@ -758,6 +765,33 @@ Grüneberg, T. (2023a). Selbstcoaching-App zur Berufs- und Studienwahl für Sch�
 Grüneberg, T. (2023b). Mit den richtigen Fragen den passenden Berufsweg finden: Selbsteinschätzung rund um die Ausbildungs- und Studienwahl. Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-662-66362-2
 
 Labs, M. (2023). »Kontinuität im Prozess ist der Schlüssel für eine erfolgreiche Berufliche Orientierung«. BWP, 2, 28–31.
+:::
+
+# Mission ICH
+
+90 Übungen, drei Aufgabentypen: <br><br>
+1. *Handlungsorientierten Übungen* - Interessen, Fähigkeiten und  Potenziale sichtbar machen und thematisieren. <br>
+2. *Reflexionsorientierte Übungen* - Wahrnehmung von Lebensplänen und Berufswünschen bzw. deren Veränderungen und Entwicklungen im Laufe der Zeit. <br>
+3. *Dialogorientierte Übungen* - Abgleich von Selbst- und Fremdwahrnehmung und Verbesserung der Kommunikationsfähigkeiten.
+
+::: {.source}
+Pilz, L.-M., Prill, T., & Kalisch, C. (2023). Berufliche Orientierung mit „Mission ICH“ an Schulen in Mecklenburg-Vorpommern. In B. Knickrehm, T. Fletemeyer, & B.-J. Ertelt (Eds), Berufliche Orientierung und Beratung: Aktuelle Herausforderungen und digitale Unterstützungsmöglichkeiten (pp. 85–103). Springer. https://doi.org/10.1007/978-3-658-40601-1_6
+:::
+
+# Identitätskarte
+
+![](images/Identitätskarte Schreiber.png)
+
+:::{.source}
+Schreiber, M. (2023). Modell der Persönlichkeits- und Identitätskonstruktion (MPI) - „Identitätskarte“. In B. Knickrehm, T. Fletemeyer, & B.-J. Ertelt (Eds), Berufliche Orientierung und Beratung: Aktuelle Herausforderungen und digitale Unterstützungsmöglichkeiten (pp. 125–143). Springer. https://doi.org/10.1007/978-3-658-40601-1_8
+:::
+
+# Life-Designing
+
+Statt Probleme durch intensive Ursachenforschung zu verstehen und zu lösen, versuchen Life DesignerInnen Probleme durch Erprobung von Lösungen besser zu verstehen, nicht handhabbare Probleme umzudeuten und Axiome von Problembeschreibungen aufzulösen, um dadurch neue Handlungsoptionen zu gewinnen.
+
+:::{.source}
+Mocigemba, D., & Fattohi, R. (2023). Life Designing in der beruflichen Beratung. In B. Knickrehm, T. Fletemeyer, & B.-J. Ertelt (Eds), Berufliche Orientierung und Beratung: Aktuelle Herausforderungen und digitale Unterstützungsmöglichkeiten (pp. 145–158). Springer. https://doi.org/10.1007/978-3-658-40601-1_9
 :::
 
 # Aktuelle Tools 
