@@ -666,11 +666,11 @@ Wyss, A., Weich, M., & Nägele, C. (2025). Stimulating career planning reflectio
 # Termin 3 <br>
 Tools und Techniken
 
-# Typische Struktur Berufsorientierung Schweiz
+# Typischer Ablauf Berufsorientierung Schweiz <br> Die Suche nach Passung und Anschluss
 
-1.	Selbsterkundung (Interessen, Fähigkeiten)
+1.	Selbsterkundung von Interessen und Fähigkeiten
 2.	Information über Berufe
-3.	Praxis-Erfahrung (Schnuppern)
+3.	Praxis-Erfahrung, Schnuppern
 4.	Bewerbung und Lehrstellensuche
 
 ::: {.source}
@@ -678,7 +678,7 @@ Jungo, D., & Egloff, E. (2025). *Berufswahltagebuch*. Schulverlag Plus.<br>
 Schmid, R., & Schmid, S. (2021). *Berufswahl-Portfolio* [Career choice portfolio]. S&B Institut f. Berufs- u. Lebensgestaltung.
 :::
 
-# Moderne Konzeptionen beruflicher Orientierung BSLB
+# Moderne Konzeptionen <br>beruflicher Orientierung BSLB
 
 # Weshalb die Suche nach Passung zu kurz greift
 
@@ -738,7 +738,7 @@ Informations- und Matching-Portale
 - [Vorbereiten auf die Zukunft](https://www.berufsberatung.ch/dyn/show/202839)
 
 
-# Tools und Techniken
+# Tools und Techniken <br> Aktuell Entwicklungen
 
 - [Mission ICH](https://www.mission-ich.uni-rostock.de/) (Pilz et al., 2023)<br>
 - Identitätskarte (Schreiber, 2023)<br>
@@ -779,7 +779,7 @@ Statt Probleme durch intensive Ursachenforschung zu verstehen und zu lösen, ver
 Mocigemba, D., & Fattohi, R. (2023). Life Designing in der beruflichen Beratung. In B. Knickrehm, T. Fletemeyer, & B.-J. Ertelt (Eds), Berufliche Orientierung und Beratung: Aktuelle Herausforderungen und digitale Unterstützungsmöglichkeiten (pp. 145–158). Springer. https://doi.org/10.1007/978-3-658-40601-1_9
 :::
 
-# Aktuelle Tools 
+# Aktuelle Tools <br> In der Schweiz 
 
 - [Profolio - Berufswahl einfach digital](https://www.profolio.ch/)<br><br>
 
@@ -787,6 +787,7 @@ Forschungsprojekte<br>
 - [digibe](https://digibe.ch/)<br>
 - [Infromationssetting BL](https://www.infosetting-bl.ch/infosetting_bl/)<br>
 - [https://like2be.ch/](https://like2be.ch/)
+
 
 # Übung
 
